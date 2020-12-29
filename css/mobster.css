@@ -24,6 +24,7 @@
 
 body {
   font-family: 'Noto Sans KR', sans-serif;
+  @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
   font-size: 1em;
   line-height: 1.25;
   color: #383340;
